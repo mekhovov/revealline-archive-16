@@ -1,0 +1,114 @@
+{
+  "format": "revealline-archive-append-candidate.v1",
+  "status": "PREPARED_FOR_ROOT_REVIEW_NOT_COMMITTED_OR_DEPLOYED",
+  "recordedAt": "2026-09-17T08:29:47.232160+00:00",
+  "predecessorArchiveCommit": "275a3061e8233a2c1046a494e613dca03783e231",
+  "predecessorArchiveTree": "d2ff87cdf8b6b6d3aa01b761adb1ec947b8f9b6d",
+  "sourceControllerAtPreparation": "587f4e75cc9dde7ae0db7ffac34320761b94588c",
+  "archiveId": "archive-16",
+  "sourceRepository": "mekhovov/revealline",
+  "version": "v0.60.0",
+  "sourceRevision": "170508f11dd41204b7e24917a823f21701c15961",
+  "sourceTree": "287ea0fddf97f594af0ce9eba452a24dc5f507c7",
+  "tagObject": "03bf36ae9a36f5e776464bd5ef75043cfba727d7",
+  "releaseId": 390511341,
+  "publishedAt": "2026-09-17T07:41:29Z",
+  "assets": [
+    {
+      "name": "distribution.zip",
+      "id": 569727688,
+      "bytes": 313121021,
+      "sha256": "297e2b39949310ad831706775201f6f3c6553589a1d389997d6ca2a54f70e184"
+    },
+    {
+      "name": "distribution.zip.sha256",
+      "id": 569721548,
+      "bytes": 83,
+      "sha256": "32e43f528d43f2923f9e8692b54f6aaa1e62589c1de69ccb06852c32c629f016"
+    },
+    {
+      "name": "manifest.json",
+      "id": 569721539,
+      "bytes": 125543,
+      "sha256": "1557e4bb9c0ab8ba23086d839c4efdb6b2041442945aafb87ba25ba7487906e4"
+    },
+    {
+      "name": "qualification-evidence-record.json",
+      "id": 569721660,
+      "bytes": 10811,
+      "sha256": "5d0f9a9f9fc2ce02147df1b7058d00514c0119c09c69308548fb2e205ba6ee6f"
+    },
+    {
+      "name": "release.json",
+      "id": 569721550,
+      "bytes": 465,
+      "sha256": "88bbe7e5d39fbd2a9b54e78baafeed5e545e140e0ce30df1ef5630fb99b8d9e7"
+    },
+    {
+      "name": "source-qualification-evidence.zip",
+      "id": 569721549,
+      "bytes": 3534565,
+      "sha256": "ee11ed412c5cc11368f0414068e5c15ae02bc844831a96d9bf7237dec69ebcd3"
+    },
+    {
+      "name": "source-qualification.json",
+      "id": 569721547,
+      "bytes": 81429,
+      "sha256": "9ee364bf236aacfde4c5610f45d165e6cf8e9ebc24b5eab38ce164ce10d6c5cd"
+    },
+    {
+      "name": "source.tar",
+      "id": 569726508,
+      "bytes": 993914880,
+      "sha256": "e297c559cccc186bcf56eaefdfeecca7afc0edfaa50fa4e4bfe5ae13a5d047e2"
+    },
+    {
+      "name": "verification.json",
+      "id": 569721661,
+      "bytes": 1910,
+      "sha256": "723475cfff067cb112afd06b48175aaeb0c57fb869c19f63b243da7dce74a969"
+    }
+  ],
+  "metadataOrigins": [
+    {
+      "name": "release.json",
+      "origin": "587f4e75cc9dde7ae0db7ffac34320761b94588c:publishing/pages-controller/metadata/v0.60.0/release.json",
+      "bytes": 465,
+      "sha256": "88bbe7e5d39fbd2a9b54e78baafeed5e545e140e0ce30df1ef5630fb99b8d9e7",
+      "releaseAssetId": 569721550
+    },
+    {
+      "name": "manifest.json",
+      "origin": "587f4e75cc9dde7ae0db7ffac34320761b94588c:publishing/pages-controller/metadata/v0.60.0/manifest.json",
+      "bytes": 125543,
+      "sha256": "1557e4bb9c0ab8ba23086d839c4efdb6b2041442945aafb87ba25ba7487906e4",
+      "releaseAssetId": 569721539
+    },
+    {
+      "name": "distribution.zip.sha256",
+      "origin": "587f4e75cc9dde7ae0db7ffac34320761b94588c:publishing/pages-controller/metadata/v0.60.0/distribution.zip.sha256",
+      "bytes": 83,
+      "sha256": "32e43f528d43f2923f9e8692b54f6aaa1e62589c1de69ccb06852c32c629f016",
+      "releaseAssetId": 569721548
+    },
+    {
+      "name": "source-qualification.json",
+      "origin": "587f4e75cc9dde7ae0db7ffac34320761b94588c:publishing/pages-controller/evidence/current-v0600/source-qualification.json",
+      "bytes": 81429,
+      "sha256": "9ee364bf236aacfde4c5610f45d165e6cf8e9ebc24b5eab38ce164ce10d6c5cd",
+      "releaseAssetId": 569721547
+    }
+  ],
+  "preservedCanonicalRows": 660,
+  "capacity": {
+    "files": 1347,
+    "bytes": 625710011,
+    "budgetBytes": 800000000,
+    "headroomBytes": 174289989
+  },
+  "archiveInfrastructureCommit": null,
+  "archiveDeploymentId": null,
+  "archiveHttpAcceptance": null,
+  "archiveNativeAdmission": null,
+  "scope": "Small original metadata and derived inventory only. Existing original payloads, source-lock cohort, input authority, release-explorer bridge and all40 controller evidence pins preserved. Root review, commit, hosted/public/native verification and successor admission remain pending."
+}
